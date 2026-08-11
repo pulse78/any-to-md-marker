@@ -1,0 +1,12 @@
+# Python venv (marker-pdf Installation - nicht ins Repo)
+venv/
+__pycache__/
+*.pyc
+
+# Testdateien
+test_*.pdf
+test_*.md
+
+# OS
+.DS_Store
+Thumbs.db
