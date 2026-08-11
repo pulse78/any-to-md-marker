@@ -8,7 +8,8 @@ Hochpräzise Datei-zu-Markdown-Konvertierung — Fork von `any-to-md` mit **mark
 - **Drei Engines** wählbar: `marker` | `classic` | `auto`
 - **Batch-Modus** für ganze Ordner (rekursiv)
 - Fallback: pdfplumber → pymupdf → Tesseract OCR
-- Unterstützt auch CSV, XLSX, DOCX, PPTX, HTML, Bilder (OCR) und Audio (Whisper)
+- Unterstützt auch CSV, XLSX, DOCX, PPTX, HTML, Bilder (OCR) und Audio
+  (Whisper, Modell wählbar via `--model`; für Deutsch `small`/`medium` empfohlen)
 
 ## Installation
 
